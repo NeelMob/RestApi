@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/html">
+    <head>
+        <title>#{get 'title' /}</title>
+        <meta charset="${_response_encoding}">
+        <link rel="stylesheet" media="screen" href="@{'/public/stylesheets/main.css'}">
+        #{get 'moreStyles' /}
+        <link rel="shortcut icon" type="image/png" href="@{'/public/images/favicon.png'}">
+    </head>
+    <body>
+        #{doLayout /}
+        <h1>Welcome</h1>
+    <form action="@{Course.add}" method="POST">
+        <label for="id">id:</label><br>
+        <input type="number" id="id" name="id"><br>
+        <label for="name">name:</label><br>
+        <input type="text" id="name" name="name">
+    </form>
+    </body>
+</html>

@@ -4,12 +4,10 @@
 
 # Home page
 GET     /                                       Application.index
-
-
-GET     /course/list                            Courses.list
-    GET     /course/listC/{id}                      Courses.listC
-POST    /course/add                             Courses.add
-
+GET     /list                                   ApiCall.list
+GET     /add                                    Application.add
+GET     /lists/{id}                             APiCall.listS
+POST    /list/add                               ApiCall.add
 
 
 # Ignore favicon requests
