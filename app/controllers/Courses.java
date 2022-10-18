@@ -9,13 +9,20 @@ import java.util.List;
 public class Courses extends Controller {
 
 
+
   //GET
-    public static void list() {
-        List<Course> course = Course.find("order by Id desc").fetch();
+    public static void list(int pageSize, int pageNumber) {
+
+        if(pageSize == 0) {
+            pageSize = 5;
+        }
+
+        List<Course> course = Course.find("order by Id desc").fetch(pageNumber,pageSize);
         renderJSON(course);
+
     }
 
-    //GET specific by specific id
+    //GET by specific id
     public static void listC(Long id) {
         Course course = Course.findById(id);
         renderJSON(course);

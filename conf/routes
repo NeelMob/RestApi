@@ -7,7 +7,7 @@ GET     /                                       Application.index
 
 
 GET     /course/list                            Courses.list
-    GET     /course/listC/{id}                      Courses.listC
+GET     /course/listC/{id}                      Courses.listC
 POST    /course/add                             Courses.add
 
 

@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="048bcd7e-e53b-4c3a-942f-be27d76d2186" name="Changes" comment="" />
+    <list default="true" id="048bcd7e-e53b-4c3a-942f-be27d76d2186" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../app/controllers/Courses.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app/controllers/Courses.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../conf/application.conf" beforeDir="false" afterPath="$PROJECT_DIR$/../conf/application.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../conf/routes" beforeDir="false" afterPath="$PROJECT_DIR$/../conf/routes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coursesApi.iws" beforeDir="false" afterPath="$PROJECT_DIR$/../coursesApi.iws" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/ApiCall.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/ApiCall.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/application.conf" beforeDir="false" afterPath="$PROJECT_DIR$/conf/application.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coursesFront.ipr" beforeDir="false" afterPath="$PROJECT_DIR$/coursesFront.ipr" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coursesFront.iws" beforeDir="false" afterPath="$PROJECT_DIR$/coursesFront.iws" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/bytecode/DEV/controllers.ApiCall" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/bytecode/DEV/controllers.ApiCall" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/classes/controllers/ApiCall.class" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/classes/controllers/ApiCall.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tmp/bytecode/DEV/controllers.Courses" beforeDir="false" afterPath="$PROJECT_DIR$/../tmp/bytecode/DEV/controllers.Courses" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,10 +27,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2G7jkMkt0D6cP4CH4rnwJ4MCdC2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -28,7 +44,7 @@
     "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/home/neel/coursesFront/coursesFront.ipr"
+    "last_opened_file_path": "/home/neel/UserDetails/UserDetails.ipr"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -41,5 +57,16 @@
       <updated>1665746658186</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

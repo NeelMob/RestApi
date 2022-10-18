@@ -14,14 +14,15 @@ import java.util.Map;
 
 public class ApiCall extends Controller {
 
-    public static void list() throws IOException {
-        URL getRequest = new URL("http://localhost:9001/course/list");
+    public static void list(int pageSize, int pageNumber) throws IOException {
+        URL getRequest = new URL("http://localhost:9001/course/list?pageSize="+ params.get("pageSize") +"&pageNumber=" +params.get("pageNumber"));
         String read = null;
         HttpURLConnection connection = (HttpURLConnection) getRequest.openConnection();
         connection.setRequestMethod("GET");
         int responsecode = connection.getResponseCode();
 
-        if (responsecode == HttpURLConnection.HTTP_OK) {
+        if (responsecode == HttpURLConnection.HTTP_OK)
+        {
             BufferedReader in = new BufferedReader(new InputStreamReader(connection.getInputStream()));
             StringBuffer response = new StringBuffer();
             while ((read = in.readLine()) != null) {
@@ -35,8 +36,6 @@ public class ApiCall extends Controller {
             System.out.println("List is Empty");
         }
     }
-
-
 
     public static void listS(long id) throws IOException {
         URL getRequest = new URL("http://localhost:9001/course/listC/" + params.get("id"));
