@@ -7,12 +7,14 @@
       <change beforePath="$PROJECT_DIR$/conf/routes" beforeDir="false" afterPath="$PROJECT_DIR$/conf/routes" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/coursesApi.iws" beforeDir="false" afterPath="$PROJECT_DIR$/coursesApi.iws" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/coursesFront/app/controllers/ApiCall.java" beforeDir="false" afterPath="$PROJECT_DIR$/coursesFront/app/controllers/ApiCall.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coursesFront/conf/application.conf" beforeDir="false" afterPath="$PROJECT_DIR$/coursesFront/conf/application.conf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coursesFront/coursesFront.ipr" beforeDir="false" afterPath="$PROJECT_DIR$/coursesFront/coursesFront.ipr" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coursesFront/app/controllers/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/coursesFront/app/controllers/Application.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/coursesFront/coursesFront.iws" beforeDir="false" afterPath="$PROJECT_DIR$/coursesFront/coursesFront.iws" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/coursesFront/tmp/bytecode/DEV/controllers.ApiCall" beforeDir="false" afterPath="$PROJECT_DIR$/coursesFront/tmp/bytecode/DEV/controllers.ApiCall" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coursesFront/tmp/bytecode/DEV/controllers.Application" beforeDir="false" afterPath="$PROJECT_DIR$/coursesFront/tmp/bytecode/DEV/controllers.Application" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/coursesFront/tmp/classes/controllers/ApiCall.class" beforeDir="false" afterPath="$PROJECT_DIR$/coursesFront/tmp/classes/controllers/ApiCall.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coursesFront/tmp/classes/controllers/Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/coursesFront/tmp/classes/controllers/Application.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tmp/bytecode/DEV/controllers.Courses" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/bytecode/DEV/controllers.Courses" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/classes/controllers/Courses.class" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/classes/controllers/Courses.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,8 +24,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="HTML File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -39,14 +41,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/home/neel/coursesApi/coursesFront/coursesFront.ipr"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/neel/coursesApi/coursesFront/coursesFront.ipr&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

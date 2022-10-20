@@ -1,8 +1,5 @@
 package controllers;
-
 import play.mvc.Controller;
-import play.mvc.Http;
-
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -13,7 +10,6 @@ import java.util.LinkedHashMap;
 import java.util.Map;
 
 public class ApiCall extends Controller {
-
     public static void list(int pageSize, int pageNumber) throws IOException {
         URL getRequest = new URL("http://localhost:9001/course/list?pageSize="+ params.get("pageSize") +"&pageNumber=" +params.get("pageNumber"));
         String read = null;

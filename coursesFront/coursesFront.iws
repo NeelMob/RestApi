@@ -3,15 +3,14 @@
   <component name="ChangeListManager">
     <list default="true" id="048bcd7e-e53b-4c3a-942f-be27d76d2186" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/../app/controllers/Courses.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app/controllers/Courses.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../conf/application.conf" beforeDir="false" afterPath="$PROJECT_DIR$/../conf/application.conf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../conf/routes" beforeDir="false" afterPath="$PROJECT_DIR$/../conf/routes" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../coursesApi.iws" beforeDir="false" afterPath="$PROJECT_DIR$/../coursesApi.iws" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/controllers/ApiCall.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/ApiCall.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/conf/application.conf" beforeDir="false" afterPath="$PROJECT_DIR$/conf/application.conf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coursesFront.ipr" beforeDir="false" afterPath="$PROJECT_DIR$/coursesFront.ipr" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/Application.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/coursesFront.iws" beforeDir="false" afterPath="$PROJECT_DIR$/coursesFront.iws" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tmp/bytecode/DEV/controllers.ApiCall" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/bytecode/DEV/controllers.ApiCall" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/bytecode/DEV/controllers.Application" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/bytecode/DEV/controllers.Application" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tmp/classes/controllers/ApiCall.class" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/classes/controllers/ApiCall.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/classes/controllers/Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/classes/controllers/Application.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../tmp/bytecode/DEV/controllers.Courses" beforeDir="false" afterPath="$PROJECT_DIR$/../tmp/bytecode/DEV/controllers.Courses" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

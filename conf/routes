@@ -9,6 +9,8 @@ GET     /                                       Application.index
 GET     /course/list                            Courses.list
 GET     /course/listC/{id}                      Courses.listC
 POST    /course/add                             Courses.add
+GET     /course/MemcachedJava                   Courses.MemcachedJava
+GET     /course/scheduler                       Scheduler.main
 
 
 
